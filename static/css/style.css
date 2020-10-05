@@ -1,0 +1,14 @@
+#container{
+    width: 980px;
+    margin: auto;
+    background-color: grey;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
